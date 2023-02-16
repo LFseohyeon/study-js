@@ -1,0 +1,37 @@
+@charset "utf-8";
+
+body {
+    font-family: 'NanumURiDdarSonGeurSsi';
+    font-size: 25px;
+    font-weight: bold;
+
+}
+table {
+    border: ridge;
+    display: table;
+    text-align: center;
+    border-spacing: 3px;
+    width: 800px;
+    height: 100px;
+}
+th {
+    background-color: #fff9c4;
+    border: ridge;
+}
+
+td {
+    border: ridge;
+}
+
+fieldset {
+    text-align: center;
+    border-spacing: 3px;
+    width: 760px;
+}
+
+#input {
+    padding: 0;
+    text-align: start;
+    width: 50%;
+    height: 30px;
+}
